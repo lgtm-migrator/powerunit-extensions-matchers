@@ -128,7 +128,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-javadoc-plugin</artifactId>
-					<version>3.2.0</version>
+					<version>3.4.1</version>
 				</plugin>
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
@@ -637,7 +637,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-javadoc-plugin</artifactId>
-				<version>3.2.0</version>
+				<version>3.4.1</version>
 				<configuration>
 					<excludePackageNames>ch.powerunit.extensions.matchers.provideprocessor:ch.powerunit.extensions.matchers.common:ch.powerunit.extensions.matchers.provideprocessor*:ch.powerunit.extensions.matchers.common*</excludePackageNames>
 					<docfilessubdirs>true</docfilessubdirs>
